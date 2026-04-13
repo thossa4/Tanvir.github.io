@@ -1,4 +1,4 @@
-# GEOG 4046 Examples
+# GEOG 4046 
 
 ## Current Weather
 
